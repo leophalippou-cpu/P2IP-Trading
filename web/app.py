@@ -4,7 +4,7 @@ import requests
 import streamlit as st
 import pandas as pd
 
-API = "https://p2ip-trading.onrender.com"
+API = "https://p2ip-trading-1.onrender.com"
 
 st.set_page_config(page_title="Paper Trading (Login)", layout="wide")
 st.title("📈 Paper Trading Virtuel — Connexion requise")
